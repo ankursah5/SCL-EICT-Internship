@@ -27,3 +27,7 @@ This repository will contain the verilog codes, output files and other relavant 
 <p align="center">
   <img width="1000" height="200" src="Outputs/fifo1.jpg">
 </p>
+
+### Suppose you have a 1-bit serial binary data stream synchronized with system clock. Now design a circuit that will count the number of times a user defined 4-bit sequence is occurred in the entire data stream. For simplicity you can defined the sequence while designing. (Hint: FSM method will reduce the complexity of design; nested FSM may be used.)
+
+#### Method 1 using Shift Register
