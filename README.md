@@ -40,4 +40,24 @@ This repository will contain the verilog codes, output files and other relavant 
   <img width="1600" height="200" src="Outputs/seqd2.jpg">
 </p>
 
+#### 5.	Design a 3x3 Matrix Multiplier
+
+** To view the verilog code click [**here**](https://github.com/ankursah5/SCL-EICT-Internship/tree/main/Verilog%20files/Matrix)
+
+### Output Simulation
+
+aa[0][0] = 1 aa[0][1] = 2 aa[0][2] = 3
+aa[1][0] = 1 aa[1][1] = 2 aa[1][2] = 3
+aa[2][0] = 1 aa[2][1] = 2 aa[2][2] = 3
+
+
+bb[0][0] = 1 bb[0][1] = 2 bb[0][2] = 3
+bb[1][0] = 1 bb[1][1] = 2 bb[1][2] = 3
+bb[2][0] = 1 bb[2][1] = 2 bb[2][2] = 3
+
+
+cc[0][0] = 6 cc[0][1] = 12 cc[0][2] = 18
+cc[1][0] = 6 cc[1][1] = 12 cc[1][2] = 18 
+cc[2][0] = 6 cc[2][1] = 12 cc[2][2] = 18
+
 
