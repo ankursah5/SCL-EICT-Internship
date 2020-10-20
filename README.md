@@ -7,6 +7,6 @@ This repository will contain the verilog codes, output files and other relavant 
 ### Output Simulation
 
 <p align="center">
-  <img width="700" height="500" src="/Outputs/pwm.JPG">
+  <img width="1000" height="500" src="/Outputs/pwm.JPG">
 </p>
 
