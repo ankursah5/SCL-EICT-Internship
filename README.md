@@ -10,3 +10,11 @@ This repository will contain the verilog codes, output files and other relavant 
   <img width="1000" height="500" src="/Outputs/pwm.JPG">
 </p>
 
+### Design 4-bit binary synchronous counter
+** To view the verilog code click [**here**](https://github.com/ankursah5/SCL-EICT-Internship/tree/main/Verilog%20files/Counter)
+
+### Output Simulation
+
+<p align="center">
+  <img width="1000" height="500" src="/Outputs/counter.JPG">
+</p>
