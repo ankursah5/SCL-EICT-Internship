@@ -25,5 +25,5 @@ This repository will contain the verilog codes, output files and other relavant 
 ### Output Simulation
 
 <p align="center">
-  <img width="800" height="400" src="/Outputs/fifo.JPG">
+  <img width="1361" height="547" src="/Outputs/fifo.JPG">
 </p>
