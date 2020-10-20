@@ -7,7 +7,7 @@ This repository will contain the verilog codes, output files and other relavant 
 ### Output Simulation
 
 <p align="center">
-  <img width="1000" height="500" src="/Outputs/pwm.JPG">
+  <img width="1463" height="837" src="/Outputs/pwm.JPG">
 </p>
 
 ### Design 4-bit binary synchronous counter
@@ -16,7 +16,7 @@ This repository will contain the verilog codes, output files and other relavant 
 ### Output Simulation
 
 <p align="center">
-  <img width="1000" height="500" src="/Outputs/counter.JPG">
+  <img width="1000" height="837" src="/Outputs/counter.JPG">
 </p>
 
 ### Create a FIFO buffer system which can store 5 numbers of 4bit each.
