@@ -37,7 +37,7 @@ This repository will contain the verilog codes, output files and other relavant 
 ### Output Simulation
 
 <p align="center">
-  <img width="1600" height="200" src="Outputs/seqd1.jpg">
+  <img width="1600" height="200" src="Outputs/seqd2.jpg">
 </p>
 
 
